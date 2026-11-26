@@ -1,0 +1,4 @@
+.superpowers/
+.build/
+*.xcodeproj/xcuserdata/
+build/

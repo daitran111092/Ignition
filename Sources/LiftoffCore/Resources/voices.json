@@ -1,0 +1,791 @@
+{
+  "lines": [
+    {
+      "id": "cables-prompt-1",
+      "key": {
+        "step": "cables",
+        "kind": "prompt"
+      },
+      "text": "Stand's ready. Plug in both Ugreen Type-C cables, one to the monitor, one to the dock."
+    },
+    {
+      "id": "cables-prompt-2",
+      "key": {
+        "step": "cables",
+        "kind": "prompt"
+      },
+      "text": "Now for power and display, Commander. Connect the two Ugreen cables, monitor and dock."
+    },
+    {
+      "id": "cables-prompt-3",
+      "key": {
+        "step": "cables",
+        "kind": "prompt"
+      },
+      "text": "Systems are waking up. Plug in your two Ugreen Type-C cables, Commander."
+    },
+    {
+      "id": "cables-prompt-4",
+      "key": {
+        "step": "cables",
+        "kind": "prompt"
+      },
+      "text": "Next, power and display. Connect both Ugreen cables now."
+    },
+    {
+      "id": "cables-confirm-1",
+      "key": {
+        "step": "cables",
+        "kind": "confirm"
+      },
+      "text": "Cables connected. The monitor sees us."
+    },
+    {
+      "id": "cables-confirm-2",
+      "key": {
+        "step": "cables",
+        "kind": "confirm"
+      },
+      "text": "Link established. Beautiful work, Commander."
+    },
+    {
+      "id": "cables-confirm-3",
+      "key": {
+        "step": "cables",
+        "kind": "confirm"
+      },
+      "text": "Both cables are in. We have a signal."
+    },
+    {
+      "id": "cables-already-1",
+      "key": {
+        "step": "cables",
+        "kind": "already"
+      },
+      "text": "Cables are already connected. You're ahead of schedule, Commander."
+    },
+    {
+      "id": "cables-already-2",
+      "key": {
+        "step": "cables",
+        "kind": "already"
+      },
+      "text": "Both cables are already in place. Ahead of schedule."
+    },
+    {
+      "id": "dock-prompt-1",
+      "key": {
+        "step": "dock",
+        "kind": "prompt"
+      },
+      "text": "Now, power on the Acasis dock."
+    },
+    {
+      "id": "dock-prompt-2",
+      "key": {
+        "step": "dock",
+        "kind": "prompt"
+      },
+      "text": "Next, switch on your Acasis fifteen-in-one dock."
+    },
+    {
+      "id": "dock-prompt-3",
+      "key": {
+        "step": "dock",
+        "kind": "prompt"
+      },
+      "text": "Cables are in. Let's wake the Acasis dock, Commander."
+    },
+    {
+      "id": "dock-confirm-1",
+      "key": {
+        "step": "dock",
+        "kind": "confirm"
+      },
+      "text": "Dock detected. All ports are live."
+    },
+    {
+      "id": "dock-confirm-2",
+      "key": {
+        "step": "dock",
+        "kind": "confirm"
+      },
+      "text": "The Acasis dock is online. Nicely done."
+    },
+    {
+      "id": "dock-confirm-3",
+      "key": {
+        "step": "dock",
+        "kind": "confirm"
+      },
+      "text": "Dock confirmed. Plenty of ports ready, Commander."
+    },
+    {
+      "id": "dock-already-1",
+      "key": {
+        "step": "dock",
+        "kind": "already"
+      },
+      "text": "The Acasis dock is already humming. Skipping ahead."
+    },
+    {
+      "id": "dock-already-2",
+      "key": {
+        "step": "dock",
+        "kind": "already"
+      },
+      "text": "Dock is already online, Commander. One less thing to do."
+    },
+    {
+      "id": "keyboard-prompt-1",
+      "key": {
+        "step": "keyboard",
+        "kind": "prompt"
+      },
+      "text": "Next, plug the Reclusa keyboard into the dock, Commander."
+    },
+    {
+      "id": "keyboard-prompt-2",
+      "key": {
+        "step": "keyboard",
+        "kind": "prompt"
+      },
+      "text": "Time for the controls. Connect your Reclusa keyboard."
+    },
+    {
+      "id": "keyboard-prompt-3",
+      "key": {
+        "step": "keyboard",
+        "kind": "prompt"
+      },
+      "text": "The dock is ready for input. Plug in the Reclusa keyboard, please."
+    },
+    {
+      "id": "keyboard-confirm-1",
+      "key": {
+        "step": "keyboard",
+        "kind": "confirm"
+      },
+      "text": "Reclusa keyboard detected. Controls are live."
+    },
+    {
+      "id": "keyboard-confirm-2",
+      "key": {
+        "step": "keyboard",
+        "kind": "confirm"
+      },
+      "text": "Keyboard online. Ready for your commands, Commander."
+    },
+    {
+      "id": "keyboard-confirm-3",
+      "key": {
+        "step": "keyboard",
+        "kind": "confirm"
+      },
+      "text": "Reclusa connected. Every key at your service."
+    },
+    {
+      "id": "keyboard-already-1",
+      "key": {
+        "step": "keyboard",
+        "kind": "already"
+      },
+      "text": "The Reclusa keyboard is already connected. Ahead of the game, Commander."
+    },
+    {
+      "id": "keyboard-already-2",
+      "key": {
+        "step": "keyboard",
+        "kind": "already"
+      },
+      "text": "Keyboard is already online. One step closer."
+    },
+    {
+      "id": "mouse-prompt-1",
+      "key": {
+        "step": "mouse",
+        "kind": "prompt"
+      },
+      "text": "Keyboard's in. Now, switch on the MX Master 4."
+    },
+    {
+      "id": "mouse-prompt-2",
+      "key": {
+        "step": "mouse",
+        "kind": "prompt"
+      },
+      "text": "Next, wake up your MX Master 4, Commander."
+    },
+    {
+      "id": "mouse-prompt-3",
+      "key": {
+        "step": "mouse",
+        "kind": "prompt"
+      },
+      "text": "Navigation next. Flip on the MX Master 4, please."
+    },
+    {
+      "id": "mouse-confirm-1",
+      "key": {
+        "step": "mouse",
+        "kind": "confirm"
+      },
+      "text": "MX Master 4 connected. Navigation online."
+    },
+    {
+      "id": "mouse-confirm-2",
+      "key": {
+        "step": "mouse",
+        "kind": "confirm"
+      },
+      "text": "Mouse detected. Smooth scrolling ahead, Commander."
+    },
+    {
+      "id": "mouse-confirm-3",
+      "key": {
+        "step": "mouse",
+        "kind": "confirm"
+      },
+      "text": "The MX Master 4 is awake. Pointer ready."
+    },
+    {
+      "id": "mouse-already-1",
+      "key": {
+        "step": "mouse",
+        "kind": "already"
+      },
+      "text": "Your MX Master 4 is already connected. Nicely done, Commander."
+    },
+    {
+      "id": "mouse-already-2",
+      "key": {
+        "step": "mouse",
+        "kind": "already"
+      },
+      "text": "Mouse is already on and tracking. Onward."
+    },
+    {
+      "id": "dac-prompt-1",
+      "key": {
+        "step": "dac",
+        "kind": "prompt"
+      },
+      "text": "Controls are online. Now, power up your FiiO K7."
+    },
+    {
+      "id": "dac-prompt-2",
+      "key": {
+        "step": "dac",
+        "kind": "prompt"
+      },
+      "text": "Time for audio, Commander. Switch on the red FiiO K7."
+    },
+    {
+      "id": "dac-prompt-3",
+      "key": {
+        "step": "dac",
+        "kind": "prompt"
+      },
+      "text": "Next system: the FiiO K7. Power it up, please."
+    },
+    {
+      "id": "dac-prompt-4",
+      "key": {
+        "step": "dac",
+        "kind": "prompt"
+      },
+      "text": "Docking complete. Let's light up that red FiiO K7."
+    },
+    {
+      "id": "dac-confirm-1",
+      "key": {
+        "step": "dac",
+        "kind": "confirm"
+      },
+      "text": "FiiO K7 detected. Audio core is live."
+    },
+    {
+      "id": "dac-confirm-2",
+      "key": {
+        "step": "dac",
+        "kind": "confirm"
+      },
+      "text": "The K7 is awake. Sound system ready, Commander."
+    },
+    {
+      "id": "dac-confirm-3",
+      "key": {
+        "step": "dac",
+        "kind": "confirm"
+      },
+      "text": "K7 confirmed. This is going to sound wonderful."
+    },
+    {
+      "id": "dac-already-1",
+      "key": {
+        "step": "dac",
+        "kind": "already"
+      },
+      "text": "The FiiO K7 is already on. Nice, Commander."
+    },
+    {
+      "id": "dac-already-2",
+      "key": {
+        "step": "dac",
+        "kind": "already"
+      },
+      "text": "K7 is already on, red and ready."
+    },
+    {
+      "id": "agentFactory-prompt-1",
+      "key": {
+        "step": "agentFactory",
+        "kind": "prompt"
+      },
+      "text": "Audio is ready. Now, open Agent Factory."
+    },
+    {
+      "id": "agentFactory-prompt-2",
+      "key": {
+        "step": "agentFactory",
+        "kind": "prompt"
+      },
+      "text": "Time to launch Agent Factory, Commander."
+    },
+    {
+      "id": "agentFactory-prompt-3",
+      "key": {
+        "step": "agentFactory",
+        "kind": "prompt"
+      },
+      "text": "Next up: Agent Factory. Open it when you're ready."
+    },
+    {
+      "id": "agentFactory-prompt-4",
+      "key": {
+        "step": "agentFactory",
+        "kind": "prompt"
+      },
+      "text": "Your workshop awaits. Open Agent Factory, Commander."
+    },
+    {
+      "id": "agentFactory-confirm-1",
+      "key": {
+        "step": "agentFactory",
+        "kind": "confirm"
+      },
+      "text": "Agent Factory is running. The workshop is open."
+    },
+    {
+      "id": "agentFactory-confirm-2",
+      "key": {
+        "step": "agentFactory",
+        "kind": "confirm"
+      },
+      "text": "Agent Factory confirmed. Ready for great work, Commander."
+    },
+    {
+      "id": "agentFactory-confirm-3",
+      "key": {
+        "step": "agentFactory",
+        "kind": "confirm"
+      },
+      "text": "Agent Factory is up. Onward."
+    },
+    {
+      "id": "agentFactory-already-1",
+      "key": {
+        "step": "agentFactory",
+        "kind": "already"
+      },
+      "text": "Agent Factory is already open. Efficient, Commander."
+    },
+    {
+      "id": "agentFactory-already-2",
+      "key": {
+        "step": "agentFactory",
+        "kind": "already"
+      },
+      "text": "Agent Factory is already running. Skipping the formalities."
+    },
+    {
+      "id": "water-prompt-1",
+      "key": {
+        "step": "water",
+        "kind": "prompt"
+      },
+      "text": "Fuel check. Pour yourself a glass of water, Commander."
+    },
+    {
+      "id": "water-prompt-2",
+      "key": {
+        "step": "water",
+        "kind": "prompt"
+      },
+      "text": "Hydration protocol. Go pour a glass of water."
+    },
+    {
+      "id": "water-prompt-3",
+      "key": {
+        "step": "water",
+        "kind": "prompt"
+      },
+      "text": "Even a Commander needs water. Pour a glass, please."
+    },
+    {
+      "id": "water-confirm-1",
+      "key": {
+        "step": "water",
+        "kind": "confirm"
+      },
+      "text": "Hydration confirmed. Excellent fuel, Commander."
+    },
+    {
+      "id": "water-confirm-2",
+      "key": {
+        "step": "water",
+        "kind": "confirm"
+      },
+      "text": "Water logged. Your crew thanks you."
+    },
+    {
+      "id": "water-confirm-3",
+      "key": {
+        "step": "water",
+        "kind": "confirm"
+      },
+      "text": "Glass poured. Systems nominal."
+    },
+    {
+      "id": "water-already-1",
+      "key": {
+        "step": "water",
+        "kind": "already"
+      },
+      "text": "Water already on board. Well prepared, Commander."
+    },
+    {
+      "id": "water-already-2",
+      "key": {
+        "step": "water",
+        "kind": "already"
+      },
+      "text": "You're already hydrated. Tank is full."
+    },
+    {
+      "id": "laptopStand-prompt-1",
+      "key": {
+        "step": "laptopStand",
+        "kind": "prompt"
+      },
+      "text": "Next, unfold the aluminum laptop stand and set the laptop on it, Commander."
+    },
+    {
+      "id": "laptopStand-prompt-2",
+      "key": {
+        "step": "laptopStand",
+        "kind": "prompt"
+      },
+      "text": "Let's raise the flight deck. Set the laptop on its stand."
+    },
+    {
+      "id": "laptopStand-prompt-3",
+      "key": {
+        "step": "laptopStand",
+        "kind": "prompt"
+      },
+      "text": "Posture check, Commander. Unfold the laptop stand and lift the Mac into place."
+    },
+    {
+      "id": "laptopStand-confirm-1",
+      "key": {
+        "step": "laptopStand",
+        "kind": "confirm"
+      },
+      "text": "Laptop elevated. Flight deck at eye level."
+    },
+    {
+      "id": "laptopStand-confirm-2",
+      "key": {
+        "step": "laptopStand",
+        "kind": "confirm"
+      },
+      "text": "Stand deployed. Your neck thanks you, Commander."
+    },
+    {
+      "id": "laptopStand-confirm-3",
+      "key": {
+        "step": "laptopStand",
+        "kind": "confirm"
+      },
+      "text": "Laptop is up on the stand. Looking sharp."
+    },
+    {
+      "id": "laptopStand-already-1",
+      "key": {
+        "step": "laptopStand",
+        "kind": "already"
+      },
+      "text": "The laptop is already on its stand. Well done, Commander."
+    },
+    {
+      "id": "laptopStand-already-2",
+      "key": {
+        "step": "laptopStand",
+        "kind": "already"
+      },
+      "text": "Stand already deployed. Moving right along."
+    },
+    {
+      "id": "headphones-prompt-1",
+      "key": {
+        "step": "headphones",
+        "kind": "prompt"
+      },
+      "text": "Put on your Sennheiser HD 660S2, Commander."
+    },
+    {
+      "id": "headphones-prompt-2",
+      "key": {
+        "step": "headphones",
+        "kind": "prompt"
+      },
+      "text": "Time for sound. Put on your HD 660S2."
+    },
+    {
+      "id": "headphones-prompt-3",
+      "key": {
+        "step": "headphones",
+        "kind": "prompt"
+      },
+      "text": "Crew comfort check. Slip on your HD 660S2 headphones."
+    },
+    {
+      "id": "headphones-confirm-1",
+      "key": {
+        "step": "headphones",
+        "kind": "confirm"
+      },
+      "text": "Headphones on. Immersion engaged, Commander."
+    },
+    {
+      "id": "headphones-confirm-2",
+      "key": {
+        "step": "headphones",
+        "kind": "confirm"
+      },
+      "text": "HD 660S2 confirmed. Let's hear some magic."
+    },
+    {
+      "id": "headphones-confirm-3",
+      "key": {
+        "step": "headphones",
+        "kind": "confirm"
+      },
+      "text": "Audio gear secured. Almost there."
+    },
+    {
+      "id": "headphones-already-1",
+      "key": {
+        "step": "headphones",
+        "kind": "already"
+      },
+      "text": "Headphones are already on. Right on cue, Commander."
+    },
+    {
+      "id": "headphones-already-2",
+      "key": {
+        "step": "headphones",
+        "kind": "already"
+      },
+      "text": "Your HD 660S2 are already on. Nothing to do here."
+    },
+    {
+      "id": "music-prompt-1",
+      "key": {
+        "step": "music",
+        "kind": "prompt"
+      },
+      "text": "Let's set the mood. Start Apple Music, Commander."
+    },
+    {
+      "id": "music-prompt-2",
+      "key": {
+        "step": "music",
+        "kind": "prompt"
+      },
+      "text": "Open Apple Music and pick something that moves you."
+    },
+    {
+      "id": "music-prompt-3",
+      "key": {
+        "step": "music",
+        "kind": "prompt"
+      },
+      "text": "Time for the soundtrack. Start Apple Music, Commander."
+    },
+    {
+      "id": "music-confirm-1",
+      "key": {
+        "step": "music",
+        "kind": "confirm"
+      },
+      "text": "Music is playing. Now we're cruising, Commander."
+    },
+    {
+      "id": "music-confirm-2",
+      "key": {
+        "step": "music",
+        "kind": "confirm"
+      },
+      "text": "Apple Music confirmed. What a great soundtrack."
+    },
+    {
+      "id": "music-confirm-3",
+      "key": {
+        "step": "music",
+        "kind": "confirm"
+      },
+      "text": "Soundtrack online. One system left."
+    },
+    {
+      "id": "music-already-1",
+      "key": {
+        "step": "music",
+        "kind": "already"
+      },
+      "text": "Music is already playing. Perfect, Commander."
+    },
+    {
+      "id": "music-already-2",
+      "key": {
+        "step": "music",
+        "kind": "already"
+      },
+      "text": "Apple Music is already on. No action needed."
+    },
+    {
+      "id": "teams-prompt-1",
+      "key": {
+        "step": "teams",
+        "kind": "prompt"
+      },
+      "text": "Final check. Open Teams and see who's waiting."
+    },
+    {
+      "id": "teams-prompt-2",
+      "key": {
+        "step": "teams",
+        "kind": "prompt"
+      },
+      "text": "Last system, Commander. Check Teams."
+    },
+    {
+      "id": "teams-prompt-3",
+      "key": {
+        "step": "teams",
+        "kind": "prompt"
+      },
+      "text": "Almost ready for launch. Take a quick look at Teams."
+    },
+    {
+      "id": "teams-confirm-1",
+      "key": {
+        "step": "teams",
+        "kind": "confirm"
+      },
+      "text": "Teams is open. Your crew is reachable, Commander."
+    },
+    {
+      "id": "teams-confirm-2",
+      "key": {
+        "step": "teams",
+        "kind": "confirm"
+      },
+      "text": "Teams confirmed. All checks are complete."
+    },
+    {
+      "id": "teams-confirm-3",
+      "key": {
+        "step": "teams",
+        "kind": "confirm"
+      },
+      "text": "Teams checked. Launch is within reach."
+    },
+    {
+      "id": "teams-already-1",
+      "key": {
+        "step": "teams",
+        "kind": "already"
+      },
+      "text": "Teams is already running. Nicely handled, Commander."
+    },
+    {
+      "id": "teams-already-2",
+      "key": {
+        "step": "teams",
+        "kind": "already"
+      },
+      "text": "Teams is already open. Consider it handled."
+    },
+    {
+      "id": "greeting-1",
+      "key": {
+        "kind": "greeting"
+      },
+      "text": "Good morning, Commander. Today is {date}. Let's get you ready for launch."
+    },
+    {
+      "id": "greeting-2",
+      "key": {
+        "kind": "greeting"
+      },
+      "text": "Good morning, Commander. Pre-flight check begins now. Let's make today count."
+    },
+    {
+      "id": "greeting-3",
+      "key": {
+        "kind": "greeting"
+      },
+      "text": "Rise and shine, Commander. The launch window is open. Ready when you are."
+    },
+    {
+      "id": "greeting-resume-1",
+      "key": {
+        "kind": "greetingResume"
+      },
+      "text": "Welcome back, Commander. Picking up right where we left off."
+    },
+    {
+      "id": "greeting-resume-2",
+      "key": {
+        "kind": "greetingResume"
+      },
+      "text": "Back on the bridge, Commander. Let's continue the pre-flight."
+    },
+    {
+      "id": "liftoff-1",
+      "key": {
+        "step": "liftoff",
+        "kind": "liftoff"
+      },
+      "text": "All systems go. Have a great day, Commander."
+    },
+    {
+      "id": "liftoff-2",
+      "key": {
+        "step": "liftoff",
+        "kind": "liftoff"
+      },
+      "text": "Pre-flight complete. We are cleared for liftoff. Fly well, Commander."
+    },
+    {
+      "id": "liftoff-3",
+      "key": {
+        "step": "liftoff",
+        "kind": "liftoff"
+      },
+      "text": "Everything is green, Commander. Go make today legendary."
+    }
+  ]
+}
